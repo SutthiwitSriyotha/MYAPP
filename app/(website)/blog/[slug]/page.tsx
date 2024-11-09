@@ -16,5 +16,5 @@ export default function BlogPost() {
       <p>{convertSlugToTitle(slug)}</p>
     </div>
   );
-  
+
 }
